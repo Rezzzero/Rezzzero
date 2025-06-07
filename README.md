@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Картинка из книги](https://loveread.ec/img/photo_books/92372/i_002.jpg)
 <!--
 **Rezzzero/Rezzzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
